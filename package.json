@@ -1,0 +1,8 @@
+{
+  "name": "@ginhing/jweixin",
+  "version": "1.0.0",
+  "description": "An commonjs wrapper of official js file.",
+  "main": "dist/index.js",
+  "author": "Ginhing <ginhing.lee@gmail.com>",
+  "license": "MIT"
+}
