@@ -8,7 +8,7 @@ An commonjs wrapper of [official js file](https://mp.weixin.qq.com/wiki?t=resour
 ```shell
 npm i @ginhing/jweixin
 # or 
-npm i jweixin:@npm:@ginhing/jweixin
+npm i jweixin@npm:@ginhing/jweixin
 ```
 
 ```js
