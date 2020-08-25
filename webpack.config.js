@@ -1,11 +1,8 @@
 module.exports = {
   mode: 'production',
-  entry: 'imports-loader?this=>window!./jweixin-1.4.0.js',
+  entry: 'imports-loader?this=>window!./jweixin.js',
   output: {
-    filename: 'index.js',
+    filename: 'jweixin.min.js',
     libraryTarget: 'commonjs2',
-  },
-  optimization: {
-    minimize: true
   }
 }
